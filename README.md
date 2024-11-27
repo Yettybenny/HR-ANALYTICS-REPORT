@@ -6,12 +6,15 @@ The modern workplace is dynamic, and managing human resources effectively has be
 ## Problem Statement:  
 HR management requires timely and accurate data to identify issues like high turnover rates, dissatisfaction in job roles, and disparities in salary trends. Without proper analytics, HR departments may struggle to address workforce challenges, leading to increased employee attrition, operational inefficiencies, and imbalance in work-life satisfaction.
 
+
 ## Objectives:
 - To analyze employee headcount, turnover rates, and new hires over the course of a year.
 - To assess salary trends by month and across different years of employment.
 - To evaluate job satisfaction and work-life balance metrics to improve employee engagement.
 - To explore the educational background of employees and its relationship to headcount and salary.
 - To identify trends in employee termination, both voluntary and involuntary, to inform retention strategies.
+
+![HR REPORT](https://github.com/user-attachments/assets/d5327f07-eaf7-484f-9996-ec52baf62877)
 
 ## Tools Used:
 
@@ -71,4 +74,4 @@ Temporal Data : Monthly and quarterly trends help identify patterns and shifts i
 
 8. Investigate termination spikes in specific months and address possible causes (e.g., performance reviews, contract endings). Ensure fair and transparent performance evaluations to build trust among employees.
 
-   
+   Project Link: 
